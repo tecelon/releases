@@ -9,7 +9,7 @@ GitHub's container registry, `ghcr.io/tecelon`.
 With Docker running (Docker Desktop on a Mac or Windows, or Docker Engine on Linux):
 
 ```bash
-curl -fsSL https://raw.githubusercontent.com/tecelon/releases/main/install.sh | bash
+curl -fsSL https://tecelon.github.io/releases/install.sh | bash
 ```
 
 Run the same line again to upgrade. Your settings and data are kept.
